@@ -1,0 +1,1 @@
+void readFiletoArray(string, int*);
